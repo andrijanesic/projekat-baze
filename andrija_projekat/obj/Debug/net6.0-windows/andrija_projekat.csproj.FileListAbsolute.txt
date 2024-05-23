@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\bin\Debug\net6.0-windows\andrija_projekat.exe
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\bin\Debug\net6.0-windows\andrija_projekat.deps.json
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\bin\Debug\net6.0-windows\andrija_projekat.runtimeconfig.json
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\bin\Debug\net6.0-windows\andrija_projekat.dll
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\bin\Debug\net6.0-windows\andrija_projekat.pdb
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\andrija_projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\andrija_projekat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\andrija_projekat.AssemblyInfo.cs
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\andrija_projekat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\andrija_projekat.dll
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\refint\andrija_projekat.dll
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\andrija_projekat.pdb
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\andrija_projekat.genruntimeconfig.cache
+C:\Users\User\source\repos\andrija_projekat\andrija_projekat\obj\Debug\net6.0-windows\ref\andrija_projekat.dll
